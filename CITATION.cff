@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Chong"
+  given-names: "Daniel"
+- family-names: "Zhang"
+  given-names: "Junjie"
+- family-names: "Boland"
+  given-names: "Nathaniel"
+- family-names: "Chen"
+  given-names: "Lingwei"
+title: "Automatically Inferring Image Base Addresses of ARM32 Binaries Using Architecture Features"
+date-released: 2023-11-01
+url: "https://github.com/chongwick/ARM32_IBase_Detection"
