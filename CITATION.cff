@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chong, Zhang, Chen, Boland
+    given-names: Daniel, Junjie, Lingwei, Nathaniel
+title: "Automatically Inferring Image Base Addresses of ARM32 Binaries Using Architecture Features"
+version: 2.0.4
+date-released: 2023-11-01
